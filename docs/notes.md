@@ -13,3 +13,4 @@ Notes and usage details for grav-theme-learn2.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- link the usage section
